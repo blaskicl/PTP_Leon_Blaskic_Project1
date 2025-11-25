@@ -6711,7 +6711,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 			(at 248.92 110.998 90)
 			(effects
 				(font
@@ -6779,7 +6779,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_THT:LED_D5.0mm"
 			(at 227.33 31.75 0)
 			(effects
 				(font
@@ -7054,7 +7054,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 			(at 22.352 166.37 90)
 			(effects
 				(font
@@ -7073,6 +7073,24 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 24.13 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "ROYALOHM"
+			(at 24.13 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "1206S4J0473T5E"
 			(at 24.13 166.37 0)
 			(effects
 				(font
@@ -7124,7 +7142,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MountingHole:MountingHole_5.5mm"
 			(at 212.09 162.56 0)
 			(effects
 				(font
@@ -7612,7 +7630,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_THT:LED_D5.0mm"
 			(at 227.33 59.69 0)
 			(effects
 				(font
@@ -7690,7 +7708,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 			(at 248.92 126.238 90)
 			(effects
 				(font
@@ -7825,7 +7843,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_THT:LED_D5.0mm"
 			(at 227.33 40.64 0)
 			(effects
 				(font
@@ -7993,7 +8011,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 			(at 136.652 101.6 90)
 			(effects
 				(font
@@ -8061,7 +8079,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_THT:LED_D5.0mm"
 			(at 227.33 49.53 0)
 			(effects
 				(font
@@ -8140,7 +8158,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MountingHole:MountingHole_5.5mm"
 			(at 212.09 152.4 0)
 			(effects
 				(font
@@ -8267,7 +8285,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
 			(at 33.02 95.5548 0)
 			(effects
 				(font
@@ -8334,7 +8352,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 			(at 40.64 108.458 90)
 			(effects
 				(font
@@ -8469,7 +8487,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:CP_Radial_D5.0mm_P2.00mm"
 			(at 32.7152 58.42 0)
 			(effects
 				(font
@@ -8538,7 +8556,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 238.76 42.418 90)
 			(effects
 				(font
@@ -8806,7 +8824,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 			(at 64.262 99.06 90)
 			(effects
 				(font
@@ -8876,7 +8894,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:CP_Radial_D5.0mm_P2.00mm"
 			(at 98.7552 58.42 0)
 			(effects
 				(font
@@ -9055,7 +9073,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 			(at 248.92 104.648 90)
 			(effects
 				(font
@@ -9237,52 +9255,52 @@
 			)
 		)
 		(pin "2"
-			(uuid "ce9e6edc-824c-4da6-84ea-9c018f133792")
+			(uuid "ce9e6edc-824c-4da6-84ea-9c018f133793")
 		)
 		(pin "11"
-			(uuid "19e5a1bd-d579-4bed-82b3-d5805ac9db94")
+			(uuid "19e5a1bd-d579-4bed-82b3-d5805ac9db95")
 		)
 		(pin "4"
-			(uuid "5d09641f-2eaf-4a61-a186-287b41798e7b")
+			(uuid "5d09641f-2eaf-4a61-a186-287b41798e7c")
 		)
 		(pin "1"
-			(uuid "f2b6ce1f-485d-42b1-a3fe-7fa1f5ac9571")
+			(uuid "f2b6ce1f-485d-42b1-a3fe-7fa1f5ac9572")
 		)
 		(pin "13"
-			(uuid "b4e5a909-a0eb-42f5-860d-4449e9a6d880")
+			(uuid "b4e5a909-a0eb-42f5-860d-4449e9a6d881")
 		)
 		(pin "6"
-			(uuid "9fc9294c-bb63-4acf-a7fc-aad04a3aec40")
+			(uuid "9fc9294c-bb63-4acf-a7fc-aad04a3aec41")
 		)
 		(pin "9"
-			(uuid "2a1e9a21-e54a-402f-8f9e-0cf0523aa948")
+			(uuid "2a1e9a21-e54a-402f-8f9e-0cf0523aa949")
 		)
 		(pin "14"
-			(uuid "9638c38f-b06a-454f-a498-32d5bf854c02")
+			(uuid "9638c38f-b06a-454f-a498-32d5bf854c03")
 		)
 		(pin "3"
-			(uuid "cde8a0f1-d294-4f7d-8aac-f20c14232d54")
+			(uuid "cde8a0f1-d294-4f7d-8aac-f20c14232d55")
 		)
 		(pin "5"
-			(uuid "7f93034e-d177-4230-91d7-7ce15e129827")
+			(uuid "7f93034e-d177-4230-91d7-7ce15e129828")
 		)
 		(pin "7"
-			(uuid "7e137665-0189-4b0b-adcc-ee66e9bd087f")
+			(uuid "7e137665-0189-4b0b-adcc-ee66e9bd0880")
 		)
 		(pin "10"
-			(uuid "9a497e78-800c-4693-b3a3-13ce0feb4e01")
+			(uuid "9a497e78-800c-4693-b3a3-13ce0feb4e02")
 		)
 		(pin "15"
-			(uuid "a3b514b4-0fdf-440c-9b59-8eb6f293613f")
+			(uuid "a3b514b4-0fdf-440c-9b59-8eb6f2936140")
 		)
 		(pin "16"
-			(uuid "014c0597-6245-4193-852d-61be976c2779")
+			(uuid "014c0597-6245-4193-852d-61be976c277a")
 		)
 		(pin "8"
-			(uuid "2c0436ea-f099-46dc-90eb-4865dc130faf")
+			(uuid "2c0436ea-f099-46dc-90eb-4865dc130fb0")
 		)
 		(pin "12"
-			(uuid "2e0ae011-0b49-4ba8-9b0a-e24e2d4712a0")
+			(uuid "2e0ae011-0b49-4ba8-9b0a-e24e2d4712a1")
 		)
 		(instances
 			(project ""
@@ -9320,7 +9338,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 238.76 51.308 90)
 			(effects
 				(font
@@ -9520,7 +9538,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 			(at 248.92 93.218 90)
 			(effects
 				(font
@@ -9540,6 +9558,24 @@
 		)
 		(property "Description" "Resistor"
 			(at 248.92 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "ROYALOHM"
+			(at 248.92 91.44 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "1206S4F2001T5E"
+			(at 248.92 91.44 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9722,7 +9758,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MountingHole:MountingHole_5.5mm"
 			(at 212.09 147.32 0)
 			(effects
 				(font
@@ -9852,7 +9888,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MountingHole:MountingHole_5.5mm"
 			(at 212.09 157.48 0)
 			(effects
 				(font
@@ -10155,7 +10191,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
 			(at 39.0652 157.48 0)
 			(effects
 				(font
@@ -10289,7 +10325,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 238.76 33.528 90)
 			(effects
 				(font
@@ -10557,7 +10593,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-41_SOD81_P12.70mm_Horizontal"
 			(at 74.93 54.61 0)
 			(effects
 				(font
@@ -10673,52 +10709,52 @@
 			)
 		)
 		(pin "5"
-			(uuid "4d1045e2-746d-4b34-8c7c-074fc1e79ddf")
+			(uuid "4d1045e2-746d-4b34-8c7c-074fc1e79de0")
 		)
 		(pin "6"
-			(uuid "367d7b92-0687-4da4-85f0-317a6bc628ff")
+			(uuid "367d7b92-0687-4da4-85f0-317a6bc62900")
 		)
 		(pin "3"
-			(uuid "0cfcfe24-3d30-4c52-aeec-4fbf6cd43806")
+			(uuid "0cfcfe24-3d30-4c52-aeec-4fbf6cd43807")
 		)
 		(pin "12"
-			(uuid "e1a18ffa-5494-4067-9a1d-be8d69a32c6e")
+			(uuid "e1a18ffa-5494-4067-9a1d-be8d69a32c6f")
 		)
 		(pin "9"
-			(uuid "d8206d63-6387-4083-85bd-45f3bb876f5d")
+			(uuid "d8206d63-6387-4083-85bd-45f3bb876f5e")
 		)
 		(pin "16"
-			(uuid "b8b6aa7a-edf0-461a-b55a-746d4fe511d1")
+			(uuid "b8b6aa7a-edf0-461a-b55a-746d4fe511d2")
 		)
 		(pin "13"
-			(uuid "77965f59-dd86-43cb-8ea8-c96c97df8627")
+			(uuid "77965f59-dd86-43cb-8ea8-c96c97df8628")
 		)
 		(pin "7"
-			(uuid "e90bf83f-3956-44e7-899f-029efc052664")
+			(uuid "e90bf83f-3956-44e7-899f-029efc052665")
 		)
 		(pin "1"
-			(uuid "abf505af-3d44-4748-b1bb-8e8e87daccf0")
+			(uuid "abf505af-3d44-4748-b1bb-8e8e87daccf1")
 		)
 		(pin "14"
-			(uuid "50c779e5-63e8-4119-9a2d-a7cda1060882")
+			(uuid "50c779e5-63e8-4119-9a2d-a7cda1060883")
 		)
 		(pin "10"
-			(uuid "e22d4dd3-b24c-4d58-afc1-deadf751df5f")
+			(uuid "e22d4dd3-b24c-4d58-afc1-deadf751df60")
 		)
 		(pin "15"
-			(uuid "67ac86eb-8f56-48bd-828b-5c937da37bd5")
+			(uuid "67ac86eb-8f56-48bd-828b-5c937da37bd6")
 		)
 		(pin "8"
-			(uuid "11719a00-fcf8-4724-9e23-97e7205c2638")
+			(uuid "11719a00-fcf8-4724-9e23-97e7205c2639")
 		)
 		(pin "2"
-			(uuid "0b591a0e-87c5-4d2e-85d8-1c0a2f4c4e28")
+			(uuid "0b591a0e-87c5-4d2e-85d8-1c0a2f4c4e29")
 		)
 		(pin "11"
-			(uuid "e26202a0-b5a0-44c0-8475-334fd3534bdf")
+			(uuid "e26202a0-b5a0-44c0-8475-334fd3534be0")
 		)
 		(pin "4"
-			(uuid "8eea83de-53d2-47f4-8a74-e4b35c5b566b")
+			(uuid "8eea83de-53d2-47f4-8a74-e4b35c5b566c")
 		)
 		(instances
 			(project ""
@@ -11018,7 +11054,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 			(at 248.92 116.078 90)
 			(effects
 				(font
@@ -11088,7 +11124,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TerminalBlock_MetzConnect:TerminalBlock_MetzConnect_Type011_RT05502HBLC_1x02_P5.00mm_Horizontal"
 			(at 16.51 46.99 0)
 			(effects
 				(font
@@ -11224,7 +11260,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
 			(at 25.0952 184.15 0)
 			(effects
 				(font
@@ -11293,7 +11329,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 			(at 162.052 101.6 90)
 			(effects
 				(font
@@ -11409,52 +11445,52 @@
 			)
 		)
 		(pin "2"
-			(uuid "ce9e6edc-824c-4da6-84ea-9c018f133792")
+			(uuid "ce9e6edc-824c-4da6-84ea-9c018f133794")
 		)
 		(pin "11"
-			(uuid "19e5a1bd-d579-4bed-82b3-d5805ac9db94")
+			(uuid "19e5a1bd-d579-4bed-82b3-d5805ac9db96")
 		)
 		(pin "4"
-			(uuid "5d09641f-2eaf-4a61-a186-287b41798e7b")
+			(uuid "5d09641f-2eaf-4a61-a186-287b41798e7d")
 		)
 		(pin "1"
-			(uuid "f2b6ce1f-485d-42b1-a3fe-7fa1f5ac9571")
+			(uuid "f2b6ce1f-485d-42b1-a3fe-7fa1f5ac9573")
 		)
 		(pin "13"
-			(uuid "b4e5a909-a0eb-42f5-860d-4449e9a6d880")
+			(uuid "b4e5a909-a0eb-42f5-860d-4449e9a6d882")
 		)
 		(pin "6"
-			(uuid "9fc9294c-bb63-4acf-a7fc-aad04a3aec40")
+			(uuid "9fc9294c-bb63-4acf-a7fc-aad04a3aec42")
 		)
 		(pin "9"
-			(uuid "2a1e9a21-e54a-402f-8f9e-0cf0523aa948")
+			(uuid "2a1e9a21-e54a-402f-8f9e-0cf0523aa94a")
 		)
 		(pin "14"
-			(uuid "9638c38f-b06a-454f-a498-32d5bf854c02")
+			(uuid "9638c38f-b06a-454f-a498-32d5bf854c04")
 		)
 		(pin "3"
-			(uuid "cde8a0f1-d294-4f7d-8aac-f20c14232d54")
+			(uuid "cde8a0f1-d294-4f7d-8aac-f20c14232d56")
 		)
 		(pin "5"
-			(uuid "7f93034e-d177-4230-91d7-7ce15e129827")
+			(uuid "7f93034e-d177-4230-91d7-7ce15e129829")
 		)
 		(pin "7"
-			(uuid "7e137665-0189-4b0b-adcc-ee66e9bd087f")
+			(uuid "7e137665-0189-4b0b-adcc-ee66e9bd0881")
 		)
 		(pin "10"
-			(uuid "9a497e78-800c-4693-b3a3-13ce0feb4e01")
+			(uuid "9a497e78-800c-4693-b3a3-13ce0feb4e03")
 		)
 		(pin "15"
-			(uuid "a3b514b4-0fdf-440c-9b59-8eb6f293613f")
+			(uuid "a3b514b4-0fdf-440c-9b59-8eb6f2936141")
 		)
 		(pin "16"
-			(uuid "014c0597-6245-4193-852d-61be976c2779")
+			(uuid "014c0597-6245-4193-852d-61be976c277b")
 		)
 		(pin "8"
-			(uuid "2c0436ea-f099-46dc-90eb-4865dc130faf")
+			(uuid "2c0436ea-f099-46dc-90eb-4865dc130fb1")
 		)
 		(pin "12"
-			(uuid "2e0ae011-0b49-4ba8-9b0a-e24e2d4712a0")
+			(uuid "2e0ae011-0b49-4ba8-9b0a-e24e2d4712a2")
 		)
 		(instances
 			(project ""
@@ -11558,7 +11594,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 238.76 61.468 90)
 			(effects
 				(font
@@ -11715,7 +11751,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 			(at 248.92 121.158 90)
 			(effects
 				(font
@@ -11978,7 +12014,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Inductor_THT:L_Radial_D7.2mm_P3.00mm_Murata_1700"
 			(at 82.55 45.72 0)
 			(effects
 				(font
@@ -12113,7 +12149,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 			(at 111.252 101.6 90)
 			(effects
 				(font
@@ -12229,52 +12265,52 @@
 			)
 		)
 		(pin "5"
-			(uuid "4d1045e2-746d-4b34-8c7c-074fc1e79ddf")
+			(uuid "4d1045e2-746d-4b34-8c7c-074fc1e79de1")
 		)
 		(pin "6"
-			(uuid "367d7b92-0687-4da4-85f0-317a6bc628ff")
+			(uuid "367d7b92-0687-4da4-85f0-317a6bc62901")
 		)
 		(pin "3"
-			(uuid "0cfcfe24-3d30-4c52-aeec-4fbf6cd43806")
+			(uuid "0cfcfe24-3d30-4c52-aeec-4fbf6cd43808")
 		)
 		(pin "12"
-			(uuid "e1a18ffa-5494-4067-9a1d-be8d69a32c6e")
+			(uuid "e1a18ffa-5494-4067-9a1d-be8d69a32c70")
 		)
 		(pin "9"
-			(uuid "d8206d63-6387-4083-85bd-45f3bb876f5d")
+			(uuid "d8206d63-6387-4083-85bd-45f3bb876f5f")
 		)
 		(pin "16"
-			(uuid "b8b6aa7a-edf0-461a-b55a-746d4fe511d1")
+			(uuid "b8b6aa7a-edf0-461a-b55a-746d4fe511d3")
 		)
 		(pin "13"
-			(uuid "77965f59-dd86-43cb-8ea8-c96c97df8627")
+			(uuid "77965f59-dd86-43cb-8ea8-c96c97df8629")
 		)
 		(pin "7"
-			(uuid "e90bf83f-3956-44e7-899f-029efc052664")
+			(uuid "e90bf83f-3956-44e7-899f-029efc052666")
 		)
 		(pin "1"
-			(uuid "abf505af-3d44-4748-b1bb-8e8e87daccf0")
+			(uuid "abf505af-3d44-4748-b1bb-8e8e87daccf2")
 		)
 		(pin "14"
-			(uuid "50c779e5-63e8-4119-9a2d-a7cda1060882")
+			(uuid "50c779e5-63e8-4119-9a2d-a7cda1060884")
 		)
 		(pin "10"
-			(uuid "e22d4dd3-b24c-4d58-afc1-deadf751df5f")
+			(uuid "e22d4dd3-b24c-4d58-afc1-deadf751df61")
 		)
 		(pin "15"
-			(uuid "67ac86eb-8f56-48bd-828b-5c937da37bd5")
+			(uuid "67ac86eb-8f56-48bd-828b-5c937da37bd7")
 		)
 		(pin "8"
-			(uuid "11719a00-fcf8-4724-9e23-97e7205c2638")
+			(uuid "11719a00-fcf8-4724-9e23-97e7205c263a")
 		)
 		(pin "2"
-			(uuid "0b591a0e-87c5-4d2e-85d8-1c0a2f4c4e28")
+			(uuid "0b591a0e-87c5-4d2e-85d8-1c0a2f4c4e2a")
 		)
 		(pin "11"
-			(uuid "e26202a0-b5a0-44c0-8475-334fd3534bdf")
+			(uuid "e26202a0-b5a0-44c0-8475-334fd3534be1")
 		)
 		(pin "4"
-			(uuid "8eea83de-53d2-47f4-8a74-e4b35c5b566b")
+			(uuid "8eea83de-53d2-47f4-8a74-e4b35c5b566d")
 		)
 		(instances
 			(project ""
@@ -12398,7 +12434,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 			(at 87.122 101.6 90)
 			(effects
 				(font
@@ -12468,7 +12504,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 			(at 203.708 114.3 90)
 			(effects
 				(font
@@ -12537,7 +12573,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 			(at 248.92 99.568 90)
 			(effects
 				(font
